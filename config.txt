@@ -1,0 +1,7 @@
+20 10
+output.txt
+' '
+Circle 10 5 3 '#'
+Rectangle 2 2 5 3 '@'
+Square 15 1 4 '*'
+
