@@ -32,3 +32,5 @@ Plik konfiguracyjny zawiera informacje o wymiarach canvasu, pliku wyjściowym or
 Kompilacja i uruchomienie programu:
 Aby skompilować program, użyj kompilatora C++: g++ -o draw draw.cpp
 Program uruchamia się, przekazując plik konfiguracyjny jako argument: ./draw config.txt
+
+Po czym plik wyjściowy zostanie stworzony.
