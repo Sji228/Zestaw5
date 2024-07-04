@@ -1,3 +1,4 @@
+//KRYKUN SERHII GRUPA 1 04.07.2024
 #include <iostream>
 #include <vector>
 #include <fstream>
