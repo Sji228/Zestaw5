@@ -1,4 +1,3 @@
-//KRYKUN SERHII GRUPA 1 04.07.2024
 20 10
 output.txt
 ' '
