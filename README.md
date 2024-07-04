@@ -1,3 +1,4 @@
+KRYKUN SERHII GRUPA 1 04.07.2024
 README
 Opis programu:
 Program rysuje figury na canvasie ASCII zgodnie ze specyfikacją podaną w pliku konfiguracyjnym. Obsługiwane figury to: koło (Circle), prostokąt (Rectangle) oraz kwadrat (Square). Wynik jest zapisywany do pliku tekstowego, gdzie figury są przedstawione za pomocą różnych symboli.
